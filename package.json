@@ -1,0 +1,12 @@
+{
+  "name": "IncrediBL",
+  "version": "0.1.0",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-copy": "*",
+    "bower": "*",
+    "grunt-exec": "*"
+  },
+  "private": true
+}
