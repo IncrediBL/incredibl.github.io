@@ -2,11 +2,16 @@
   "name": "IncrediBL",
   "version": "0.1.0",
   "dependencies": {
+    "bower": "*",
     "grunt": "~0.4.5",
+    "grunt-exec": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-copy": "*",
-    "bower": "*",
-    "grunt-exec": "*"
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-watch": "*"
   },
   "private": true
 }
